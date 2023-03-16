@@ -1,0 +1,7 @@
+{
+  "name": "wicci_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
